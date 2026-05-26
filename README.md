@@ -1,8 +1,8 @@
-## 👋 Hi, 我是 IFACNY
+##  Hi, 我是 IFACNY
 
 专注于 **AI + 游戏** 的开发者 | 热衷探索 **AI与可玩性的融合**  
 用 Unity 构建原型，用 AI 重塑体验
-## 🛠️ 我的技术栈
+##  我的技术栈
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -36,11 +36,11 @@
 
 ### 部分作品展示
 
-[👉 B站视频：GameJam 与原型合集](https://www.bilibili.com/video/BV1Jxd4B1ET5)
+[ B站视频：GameJam 与 原型合集](https://www.bilibili.com/video/BV1Jxd4B1ET5)
 
 ---
 
-### 📫 联系我
+###  联系我
 
 - 邮箱：ifancy803@foxmail.com
 - 微信：IFANCY_803 (请备注 GitHub)
