@@ -1,7 +1,14 @@
-## 👋 Hi, 我是 纪易 (Ji Yi)
+## 👋 Hi, 我是 IFACNY
 
 专注于 **AI + 游戏** 的开发者 | 热衷探索 **AI与可玩性的融合**  
 用 Unity 构建原型，用 AI 重塑体验
+## 🛠️ 我的技术栈
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-10A37F?style=for-the-badge&logo=anthropic&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
 
 ---
 
