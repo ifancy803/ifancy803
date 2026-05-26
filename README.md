@@ -1,59 +1,43 @@
-# ✨ Hi, I'm IFANCY ✨
+## 👋 Hi, 我是 纪易 (Ji Yi)
 
-### 👾 Unity Client Developer | Game Developer | Tech & Art Explorer
-Focused on immersive game development and interactive experience with Unity.
-
----
-
-## 🛠️ Tech Stack
-- **Game Engine**: Unity (C#)
-- **Rendering/Visual**: SketchUp · V-Ray · Enscape · D5 Render
-- **Tools**: PowerPoint · Photoshop · AI Tools
-- **Languages**: C# · TypeScript · HTML · JavaScript
-- **Fields**: Game Development · Architecture Visualization · AI Image Segmentation
+专注于 **AI + 游戏** 的开发者 | 热衷探索 **AI与可玩性的融合**  
+用 Unity 构建原型，用 AI 重塑体验
 
 ---
 
-## 📌 Featured Projects
-### 🎮 OOPS
-Platform puzzle + music fusion game  
-- Tech: Unity, C#  
-- Archive: [JunLangBai/OOPS](https://github.com/JunLangBai/OOPS)
+### 研发兴趣
 
-### 🎮 睡吧猫猫
-Cute & healing adventure mini-game  
-- Style: Casual,治愈, adventure
-
-### 🤖 Photo-Subject-Extractor-cutout-Web-App
-AI foreground/background segmentation web app  
-- Tech: TypeScript, AI  
-- Repo: [ifancy803/Photo-Subject-Extractor-cutout-Web-App](https://github.com/ifancy803/Photo-Subject-Extractor-cutout-Web-App)
-
-### 🌱 SproutGJ-MemeStudio-2025
-Game Jam 2025 project  
-- Tech: C#  
-- Repo: [Yumihoshi/SproutGJ-MemeStudio-2025](https://github.com/Yumihoshi/SproutGJ-MemeStudio-2025)
-
-### 🧪 Recent Projects
-- **AI-GAME** (TypeScript) – Created 3 commits (Apr 9, 2026)
-- **CS-Arhitecture-Design** (JavaScript) – Created 2 commits (Apr 14, 2026)
+- **AI 原生游戏 (AI‑Native Game)**：让大语言模型、强化学习智能体成为游戏机制的核心，而非辅助工具。
+- **人机交互 (HCI)**：自然交互（语音、手势、意图识别）与传统游戏控制的结合， **98分的人机交互课程** 。
+- **程序化内容生成 (PCG) + AIGC**：利用生成式 AI 动态创造关卡、叙事、美术资产，探索无限可玩性。
 
 ---
 
-## 📊 GitHub Activity
-- **Total contributions (last year)**: 85+
-- **Recent (April 2026)**:
-  - 5 commits in 2 repositories
-  - Created 2 new repositories: AI-GAME, CS-Arhitecture-Design
+### 技术栈
+
+| 领域 | 主要工具 / 框架 |
+| :--- | :--- |
+| 语言 | 熟悉C#及基层，对Lua/C++/Python/C了解 |
+| 游戏引擎 | **Unity** (基础模块、常用插件、UGUI、性能优化、设计模式…) |
+| AI  | 熟悉各类AI工具(Claude Code\Codex…)，熟悉MCP\Agent… |
+| 计算机基础 | 熟悉数据结构与常用算法、计算机网络、操作系统、线性代数… |
+| 协作与工具 | Git , PM管理经验 |
+| 设计与原型 | Figma,  AIGC 工作流 (Comfu UI, Google AI Studio…) |
+| 其他 |  多端游戏客户端实习经验 |
 
 ---
 
-## 🌍 Find Me
-- 🎮 shturl.: [Game Homepage]
-- 📺 Bilibili: [Personal Space]
-- 💻 GitHub: [ifancy803](https://github.com/ifancy803)
+### 部分作品展示
+
+[👉 B站视频：GameJam 与原型合集](https://www.bilibili.com/video/BV1Jxd4B1ET5)
 
 ---
 
-## 💡 Motto
-**Code the future, design the dream.**
+### 📫 联系我
+
+- 邮箱：ifancy803@foxmail.com
+- 微信：IFANCY_803 (请备注 GitHub)
+
+---
+
+*✨ 保持好奇，然后一起创造新规则。*
